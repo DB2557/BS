@@ -106,7 +106,7 @@ to improve robustness and spectral invariance.
 ## DFSL Network Overview
 
 <p align="center">
-  <img src="base_architecture.png" width="100%">
+  <img src="figures/base_architecture.png" width="100%">
 </p>
 
 The original DFSL framework consists of two complementary branches:
@@ -148,9 +148,8 @@ Both branches are fused using adaptive weighted fusion for final classification.
 ## Proposed Enhancement Pipeline
 
 <p align="center">
-  <img src="proposed.png" width="100%">
+  <img src="figures/proposed.png" width="100%">
 </p>
-
 The proposed framework extends DFSL using:
 
 * Frequency Augmentation
